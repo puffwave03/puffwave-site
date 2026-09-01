@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="pwgrad" x1="80" y1="400" x2="420" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <path d="M108 376 C150 340 180 288 210 224 C235 170 275 132 338 132 C407 132 438 169 438 219 C438 271 399 308 344 308 C314 308 289 297 268 282 C248 268 228 263 207 266" fill="none" stroke="url(#pwgrad)" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M176 285 C207 258 240 244 280 246" fill="none" stroke="white" stroke-width="24" stroke-linecap="round" opacity="0.9"/>
+</svg>
